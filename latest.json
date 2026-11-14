@@ -1,0 +1,21 @@
+{
+ "pc": {
+  "version": "0.9.6",
+  "url": "https://raw.githubusercontent.com/iix77v/tv/main/pc-0.9.6.zip",
+  "sha256": "569b4c221afa96f5aa480e91df8706aaa991c779880845b3f8d553f6291ca9b8",
+  "size": 442940,
+  "notes": [
+   "تحسينات وإصلاحات"
+  ]
+ },
+ "tv": {
+  "code": 19,
+  "version": "0.1.19",
+  "url": "https://raw.githubusercontent.com/iix77v/tv/main/tv-19.apk",
+  "sha256": "63fa9c92d71ca78faec571db74ae8aff1b40a9de6e26870f1e259d45e9576bc9",
+  "size": 16682248,
+  "notes": [
+   "جديد: تقدر تصوّر شاشة سهرة من صفحة «جهّز من جوالك» وتحفظ الصورة في جوالك"
+  ]
+ }
+}
